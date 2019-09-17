@@ -46,3 +46,24 @@ namespace Boxes {
     }
 }
 ```
+
+CSS
+```css
+div {
+    border: thick solid black;
+    position: absolute;
+}
+
+.big {
+    width: 50px;
+    height: 50px;
+}
+.medium {
+    width: 30px;
+    height: 30px;
+}
+.small {
+    width: 10px;
+    height: 10px;
+}
+```
