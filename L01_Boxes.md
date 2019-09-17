@@ -1,5 +1,3 @@
-# L01_Boxes
-
 1. Erstellen Sie eine Tracetable zu untenstehendem TypeScript-Code.
 1. Stellen Sie die zu erwartende Ausgabe grafisch auf Papier dar.
 1. Bringen Sie schließlich den Code zum Laufen und überprüfen Sie das Ergebnis.
