@@ -4,6 +4,7 @@
 1. Verfolgen Sie den Verlauf im Debugger. Bestimmen Sie Abweichungen zu Ihrer Erwartung und erklären Sie diese.
 1. Versuchen Sie ein Aktivitätsdiagramm für den Programmablauf zu konstruieren. Nutzen Sie dafür das in der Veranstaltung ausgeteilte ([oder auch hier einsehbare](https://github.com/JirkaDellOro/EIA2/blob/master/ActivityDia2Code.pdf)) Merkblatt sowie das Beispiel aus der ersten Aufgabe.
 
+# TypeScript
 ```typescript
 namespace Boxes {
     let n: number = 5;
@@ -47,7 +48,7 @@ namespace Boxes {
 }
 ```
 
-CSS
+# CSS
 ```css
 div {
     border: thick solid black;
