@@ -5,4 +5,4 @@
 - [x] Starte den Compiler im Watch-Mode, so dass jede Änderung gleich kompiliert wird. Sonst vergisst Du zu kompilieren und wunderst dich, dass dein Programm sein Verhalten nicht ändert.
 - [x] Achte darauf, dass Du beim Programmieren sinnvolle `namespaces` vergibst, damit keine Namenskonflikte zwischen den verschiedenen Aufgaben und Übungen entstehen.
 
-Wenn Du die Lektionen bei dir lokal anschaust, installiere zuvor einen Markdown-Viewer im Browser! Für Chrome wird [dieser empfohlen](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk). Damit kannst Du MarkDown-Dateien (.md) im Browser öffnen und sie werden wohlformatiert und sogar mit einem Überschriftenverzeichnis versehen.
+Wenn Du die Lektionen bei dir lokal anschaust, installiere zuvor einen Markdown-Viewer im Browser! Für Chrome wird [dieser empfohlen](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk). Damit kannst Du MarkDown-Dateien (.md) im Browser öffnen und sie werden wohlformatiert angezeigt und sogar mit einem Überschriftenverzeichnis versehen.
