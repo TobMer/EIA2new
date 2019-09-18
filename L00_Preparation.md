@@ -1,0 +1,6 @@
+# Aufgabe
+- [x] Clone dieses Repository auf deinen Entwicklungsrechner. So kannst Du auch die Lektionen bearbeiten, wenn Du gerade keinen Internetzugang hast. Die Inhalte unterliegen stetigen Veränderungen, stelle also sicher, dass Du dir immer die aktuelle Version pullst, bevor Du mit der Arbeit beginnst.
+- [x] Lege dir ein persönliches EIA2-Repository auf Github an und pflege dort die Ergebnisse deiner Vorbereitungen und Wochenaufgaben. Publiziere das Repository auf Pages. Wenn Du Issues postest, stelle deinen Betreuern möglichst genaue Links auf die entsprechenden Dateien zur Verfügung, die zum Problemverständnis beitragen, sowohl auf den Quellcode als gegebenenfalls auch auf die Applikation auf Pages.
+- [x] Achte darauf, dass Du TypeScript und den TS-Linter in VSCode installiert hast und dass Du die Dateien tsconfig.json und tslint.json von diesem Repository in deines kopiert hast.
+- [x] Starte den Compiler im Watch-Mode, so dass jede Änderung gleich kompiliert wird. Sonst vergißt Du zu kompilieren und wunderst dich, dass dein Programm sein Verhalten nicht ändert.
+- [x] Achte darauf, dass Du beim Programmieren sinnvolle `namespaces` vergibst, damit keine Namenskonflikte zwischen den verschiedenen Aufgaben und Übungen entstehen.
