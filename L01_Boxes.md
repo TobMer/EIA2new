@@ -1,9 +1,9 @@
 # Aufgabe
-1. Erstellen Sie eine Tracetable zu untenstehendem TypeScript-Code.
-1. Stellen Sie die zu erwartende Ausgabe grafisch auf Papier dar.
-1. Bringen Sie schließlich den Code zum Laufen und überprüfen Sie das Ergebnis.
-1. Verfolgen Sie den Verlauf im Debugger. Bestimmen Sie Abweichungen zu Ihrer Erwartung und erklären Sie diese.
-1. Versuchen Sie ein Aktivitätsdiagramm für den Programmablauf zu konstruieren. Nutzen Sie dafür das in der Veranstaltung ausgeteilte ([oder auch hier einsehbare](https://github.com/JirkaDellOro/EIA2-Inverted/blob/master/X01_Appendix/UML/ActivityDia2Code.pdf)) Merkblatt sowie das Beispiel aus der ersten Aufgabe.
+1. Erstelle eine Tracetable zu untenstehendem TypeScript-Code.
+1. Stelle die zu erwartende Ausgabe grafisch auf Papier dar.
+1. Bringe schließlich den Code zum Laufen und überprüfe das Ergebnis.
+1. Verfolge den Verlauf im Debugger. Bestimme Abweichungen zu deiner Erwartung und erkläre diese.
+1. Versuche ein Aktivitätsdiagramm für den Programmablauf zu konstruieren. Nutze dafür das in der Veranstaltung ausgeteilte ([oder auch hier einsehbare](https://github.com/JirkaDellOro/EIA2-Inverted/blob/master/X01_Appendix/UML/ActivityDia2Code.pdf)) Merkblatt sowie das Beispiel aus der ersten Aufgabe.
 
 ## TypeScript
 ```typescript
