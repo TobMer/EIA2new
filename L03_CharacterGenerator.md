@@ -1,14 +1,27 @@
-Aufgabe
-Erstelle einen RPG – Character-Creator, der mindestens die folgenden Elemente beinhaltet:
+# Aufgabe
+Rollenspiele (Role Playing Games, RPG) erfreuen sich großer Beliebtheit, sowohl im digitalen Bereich mit Titeln wie "World of Warcraft" als auch im analogen mit z.B. "Dungeons & Dragons". Bei der Vielzahl an möglichen Charakteren, die man spielen und auf die man im Spiel treffen kann, und deren Eigenschaften ist es aber nicht leicht, einen Überblick zu wahren und eine Struktur zu finden, mit denen sie gut entworfen und beschrieben werden können.
 
-Eine Namenseingabe
-Ein Auswahlelement für verschiedene Geschlechter und/oder Frisuren
-Eine Eingabe für Größe und Gewicht, aus denen sich der BMI berechnen lässt
-Einen Color Picker für die Augen oder Kleidungsfarbe
-Eine Auswahl an verschiedenen Accessoires, von denen mehrere gleichzeitig ausgewählt werden können
-Eine Text Area für mögliche Backstorys
-Eine Date-Eingabe für das Geburtsdatum
-Und noch 3 weitere Eigenschaften, die sich durch Eingabeelemente ändern lassen
-Achte darauf, dass deine Daten sinnvoll zusammengefasst werden. Außerdem solltest du darauf Wert legen, alle gelernten Input Elemente hierbei zu verwenden
-Vorgehensweise
-Orientiere dich an der in der Lektion anhand des Beispiels der Cocktail Bar behandelten Vorgehensweise für das Erstellen und Abfragen solcher Elemente
+Konzipiere also einen Online-RPG–Character-Creator, mit dessen Hilfe ein Spieler oder ein Spielleiter solche Charaktere definieren kann. Er soll wenigstens die folgenden Eingabeelemente zur Verfügung stellen:
+
+- Name (frei wählbar)
+- Geschlecht (vordefiniert)
+- Rasse (vordefiniert, z.B. Zwerg, Ork, Elf, Zwölf, ...)
+- Klasse (vordefiniert, z.B. Krieger, Dieb, Zauberer, Steuerberater, ...)
+- Größe (in einem bestimmten sinnvollen Bereich wählbar)
+- Gewicht (in einem bestimmten sinnvollen Bereich wählbar)
+- Bewaffnung (es können zwei Einhandwaffen oder eine Zweihandwaffe ausgewählt werden)
+- Farbe von Augen, Haaren und Kleidungsteilen (frei wählbar aber nicht als Freitext)
+- Auswahl verschiedener Accessoires (es können mehrere gleichzeitig ausgewählt werden)
+- Feld für die Backstory (frei formulierbar, hier kann viel eingegeben werden)
+- Geburtsdatum (frei wählbar aber nicht als Freitext, so dass nur gültige Datumsformate entstehen)
+- 3 weitere Eigenschaften deiner Wahl (wähle ebenso die hierfür sinnvollen Eingabeelemente)
+
+Neben dem Eingabebereich soll ein Ausgabebereich eingezeigt werden, in dem eine wohlformatierte Übersicht zum aktuellen Charakter erscheint. Dort sollen auch verschiedene berechnete Werte angezeigt werden
+- der Body-Mass-Index
+- das aktuelle Alter
+- das Gesamtgewicht mit Waffen und Accessoires
+- ein weiterer berechneter Wert deiner Wahl
+
+## Hinweise
+- Lege Wert darauf, bei dieser Aufgabe den Umgang mit vielen unterschiedlichen Eingabeelementen zu üben.
+- Orientiere dich an der in der Lektion anhand des Beispiels der Cocktail Bar behandelten Vorgehensweise.
