@@ -25,3 +25,5 @@ Neben dem Eingabebereich soll ein Ausgabebereich eingezeigt werden, in dem eine 
 ## Hinweise
 - Lege Wert darauf, bei dieser Aufgabe den Umgang mit vielen unterschiedlichen Eingabeelementen zu üben.
 - Orientiere dich an der in der Lektion anhand des Beispiels der Cocktail Bar behandelten Vorgehensweise.
+- Eine andere mit der Technik vertraute Person muss anhand deiner Konzeption das Programm kodieren können, ohne über viel mehr als die reine Umsetzung in Code nachzudenken.
+- Tatsächlich ist es eine äußerst effektive Übung, wenn Du das Konzept einer anderen Person umsetzt und dabei mit ihr über die Klarheit und Sinnhaftigkeit des Entwurfs diskutierst.
