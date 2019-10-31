@@ -9,4 +9,5 @@ Definiere eine Datenstruktur, mit der deine Seite die aktuelle Funktionalität b
 - Orientiere dich auch hier an der aktuellen Lektion.
 - Wenn du einmal in deinem Code einen logischen Fehler nicht findest, versuch es doch die [Gummi-Enten-Methode](https://rubberduckdebugging.com/), ansonsten frag' im Praktikum oder per Issue nach Hilfe oder erkundige dich bei den wohl informierten, immer hilfsbereiten, extrem sympathischen und übermäßig gut aussehenden Praktikanten.<sup>[1](#1)</sup>
 
-<sup><a name="1">1</a></sup> Diese Aufgabe wurde von den extrem sympathischen und übermäßig gut aussehenden Praktikanten formuliert und spiegelt nicht zwingend Meinungen des Dozenten wieder.
+<hr/>
+<sup><a name="1">1</a> Diese Aufgabe wurde von den extrem sympathischen und übermäßig gut aussehenden Praktikanten formuliert und spiegelt nicht zwingend Meinungen des Dozenten wieder.</sup>
