@@ -1,7 +1,7 @@
 **Helft den armen Vögeln!**  _(Groß-/Kleinschreibung ist wichtig...)_
 
 # Aufgabe
-Das Bild einer winterlichen Szenerie soll per Code auf dem Canvas enstehen. Im Hintergrund sollen sich der Himmel mit Wolken und Sonne, Berge, Bäume und/oder andere Objekte befinden, im Vordergrund ein Schneemann und ein Vogelhäuschen. Dazu ist eine Menge von Vögeln zu sehen, manche im Häuschen, manche ganz aus dem Häuschen auf dem Boden oder im Flug. Als Letztes sollen noch ein paar Schneeflocken darüber gestreut werden. Das Bild ist (noch) unbewegt...
+Das Bild einer winterlichen Szenerie soll per Code auf dem Canvas enstehen. Im Hintergrund sollen sich der Himmel mit Wolken und Sonne, Berge, Bäume und/oder andere Objekte befinden, im Vordergrund ein Schneemann und ein Vogelhäuschen. Dazu ist eine Menge (mindestens 20) von Vögeln zu sehen, manche im Häuschen, manche ganz aus dem Häuschen auf dem Boden und im Flug. Als Letztes sollen noch ein paar Schneeflocken darüber gestreut werden. Das Bild ist (noch) unbewegt...
 
 Die Größe des Bildes soll für dein Smartphone optimiert sein, sich per CSS aber auch an andere Bildschirme anpassen.
 
