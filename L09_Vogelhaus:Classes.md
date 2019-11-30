@@ -1,8 +1,7 @@
 # Aufgabe
 Belebe dein Vogelhausbild durch Animation und refaktoriere es zu einem objektorientierten Programm!  
 
-Modelliere die Vögel, die Schneeflocken und alle anderen bewegten Objekte entsprechend der objektorientierten Vorgehensweise. Die Schneeflocken sollen einfach herunterrieseln. Einige Vögel fliegen gerade zum Haus, andere davon, wieder andere picken auf dem Boden herum. Zu jeder Zeit sollen mindesten zehn Vögel zu sehen sein. 
-
+Modelliere die Vögel, die Schneeflocken und alle anderen bewegten Objekte entsprechend der objektorientierten Vorgehensweise. Die Schneeflocken sollen einfach herunterrieseln. Einige Vögel fliegen zum Haus, andere davon, wieder andere picken auf dem Boden herum. Zu jeder Zeit sollen mindesten zehn Vögel zu sehen sein. 
 
 Der Hintergrund mit stillstehende Objekten soll nur einmal bei Programmstart gezeichnet und dann gespeichert werden (siehe Hinweise unten). Hiermit kannst Du bei jedem Animationsframe den Hintergrund restaurieren ohne das jedesmal aufwendige Zeichenbefehle abgearbeitet werden müssen nur um wieder den gleichen Hintergrund zu erzeugen.
 
