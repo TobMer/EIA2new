@@ -14,6 +14,6 @@ Konzipiere dann die einzelnen Aktivitäten mit Hilfe von entsprechenden Diagramm
 # Produktion
 Setze dein Konzept syntaktisch korrekt und unter strikter Einhaltung des vorgegebenen Coding-Styles mit TypeScript um. Die einzelnen Motive sollen mit Hilfe von selbst implementierten Funktionen gezeichnet werden. Für jedes Motiv soll es eine Funktion geben, welche eine Position und gegebenenfalls weitere Parameter entgegen nimmt und das entsprechende Motiv an der richtigen Stelle unter Berücksichtigung der anderen Parameter zeichnet. Es kann auch Funktionen für Motivgruppen geben, die wiederum die Funktionen der Einzelmotive aufrufen.
 
-#Hinweise
+# Hinweise
 Hier kannst Du dich etwas inspirieren lassen: https://github.com/raphamorim/awesome-canvas
 
