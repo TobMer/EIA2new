@@ -1,4 +1,5 @@
-**Helft den armen Vögeln!" (Groß- und Kleinschreibung ist wichtig...)  
+**Helft den armen Vögeln!** 
+<small>(Groß- und Kleinschreibung ist wichtig...)</small> 
 
 # Aufgabe
 Zeichnen Sie das Bild eines noch unbelebten Rodelhangs. Im Hintergrund sollen sich der Himmel mit Wolken und Sonne, sowie der Rodelhang selbst flankiert von Wald befinden, im Vordergrund natürlich auf dem Hang Kinder, die mit Ihren Schlitten gerade den Hang hinab fahren oder die Schlitten aufwärts ziehen. Als letztes sollen noch ein paar Schneeflocken darüber gestreut werden. Die einzelnen Motive sollen mit Hilfe von selbst implementierten Funktionen gezeichnet werden. Für jedes Motiv soll es eine Funktion geben, welche eine Position und gegebenenfalls weitere Parameter entgegen nimmt und das entsprechende Motiv an der richtigen Stelle unter Berücksichtigung der anderen Parameter zeichnet.
