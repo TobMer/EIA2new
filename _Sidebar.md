@@ -10,3 +10,4 @@
 
 [L08_Vogelhaus: Canvas](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L08_Vogelhaus:Canvas)  
 [L09_Vogelhaus: Classes](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L09_Vogelhaus:Classes)  
+[L10_Vogelhaus: Inheritance](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L10_Vogelhaus:Inheritance)  
