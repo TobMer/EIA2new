@@ -13,5 +13,4 @@
 [L10_Vogelhaus: Inheritance](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L10_Vogelhaus:Inheritance)  
 [L11_Vogelhaus: Advanced](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L11_Vogelhaus:Advanced)  
 
-[Abschlussarbeit W19](
-[L11_Vogelhaus: Advanced](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L11_Vogelhaus:Advanced)  )  
+[Abschlussarbeit W19](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/Abschlussarbeit-W19)  
