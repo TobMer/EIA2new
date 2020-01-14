@@ -2,7 +2,7 @@
 Du hast die Wahl zwischen zwei Aufgaben, die Du zu lösen hast. 
 
 ## Character Creator
-Konzipiere und produziere einen kleinen, webbasierten Character Creator, entsprechend der Aufgaben zu L03 bis L07. Die Charactere sollen darüber hinaus  
+Konzipiere und produziere einen kleinen, webbasierten Character Creator, entsprechend der Aufgaben zu L03 bis L07. Die Charaktere sollen darüber hinaus  
 1. zu sehen sein. Die Erscheinung wird auf einem Canvas-Element zur Laufzeit generiert und verändert sich während der Nutzerinteraktion. Die Darstellung muss dabei nicht den Ansprüchen von Fantasy-Fans vollständig genügen und kann leicht abstrahiert sein. Die Eigenschaften, sofern sinnvoll darstellbar, des betrachteten Charakters müssen aber auch einer mit dem System nicht vertrauten Person durch die grafische Darstellung intuitiv zugänglich sein.
 2. auch nach dem Laden aus der Datenbank sofort entsprechend Punkt 1. dargestellt werden
 3. als Objekte einer Klasse, ggf. aus einer Auswahl an Klassen, verwaltet werden. Im Creator kann zwischen den aktuell geladenen Charakteren gewechselt werden, wodurch sie angezeigt und deren Eigenschaften bearbeitet werden können. Beim Speichern werden alle aktuell geladenen Charaktere in die Online-Datenbank übertragen und ggf. aktualisiert, sofern Sie dort bereits existieren.
