@@ -40,18 +40,18 @@ Interaktionen nicht möglich sind.
     * Eine kurze Anleitung zur Interaktion mit der Anwendung
 
 ## Spielerische Anwendung
-    * Sofern Du eine spielerische Anwendung erstellt hast, die Du gerne bei der Ausstellung "GameZone" am Tag der Medien sehen möchtest, ergänze folgendes
-      * Einen Ordner mit zwei Screenshots der laufenden Applikation in den Größen 250x100 und 1920x400 pixel sowie ein Textdokument mit den Informationen
-        * Titel
-        * Autor
-        * Jahr und Semester der Entwicklung (Sose, Wise)
-        * Studiensemester
-        * Lehrplansemester
-        * Studiengang
-        * Veranstaltung im Rahmen derer die Entwicklung durchgeführt wurde
-        * Untertitel (max 40 Zeichen), der Menschen zum Spielen animiert
-        * Kurzbeschreibung (max 250 Zeichen), die kurz erklärt wie zu spielen ist
-        * Erklärung, dass die Fakultät Digitale Medien die Anwendung bei Veranstaltungen, insbesondere am Tag der Medien, mit einem expliziten Verweis auf den Autor, vorführen darf.
+Sofern Du eine spielerische Anwendung erstellt hast, die Du gerne bei der Ausstellung "GameZone" am Tag der Medien sehen möchtest, ergänze folgendes  
+* Einen Ordner mit zwei Screenshots der laufenden Applikation in den Größen 250x100 und 1920x400 pixel sowie ein Textdokument mit den Informationen
+* Titel
+* Autor
+* Jahr und Semester der Entwicklung (Sose, Wise)
+* Studiensemester
+* Lehrplansemester
+* Studiengang
+* Veranstaltung im Rahmen derer die Entwicklung durchgeführt wurde
+* Untertitel (max 40 Zeichen), der Menschen zum Spielen animiert
+* Kurzbeschreibung (max 250 Zeichen), die kurz erklärt wie zu spielen ist
+* Erklärung, dass die Fakultät Digitale Medien die Anwendung bei Veranstaltungen, insbesondere am Tag der Medien, mit einem expliziten Verweis auf den Autor, vorführen darf.
 
 
 Wir freuen uns auf spannende Apps von Ihnen
