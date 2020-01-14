@@ -1,4 +1,6 @@
 # Abschlussarbeit
+**Beachte dringend die [Hinweise zur Abschlussarbeit](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/Hinweise-zur-Abschlussarbeit)!**  
+
 Du hast die Wahl zwischen zwei Aufgaben, die Du zu lösen hast. 
 
 ## Character Creator
