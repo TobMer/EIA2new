@@ -54,4 +54,4 @@ Sofern Du eine spielerische Anwendung erstellt hast, die Du gerne bei der Ausste
 * Erklärung, dass die Fakultät Digitale Medien die Anwendung bei Veranstaltungen, insbesondere am Tag der Medien, mit einem expliziten Verweis auf den Autor, vorführen darf.
 
 
-Wir freuen uns auf spannende Apps von Ihnen
+Wir freuen uns auf spannende Apps von euch!
