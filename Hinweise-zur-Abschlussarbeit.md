@@ -49,6 +49,9 @@ Sofern Du eine spielerische Anwendung erstellt hast, die Du gerne bei der Ausste
 * Lehrplansemester
 * Studiengang
 * Veranstaltung im Rahmen derer die Entwicklung durchgeführt wurde
+* betreuender Dozent
+* Genre des Spiels
+* ggf. passende Tags/ Schlagwörter zu dem Spiel
 * Untertitel (max 40 Zeichen), der Menschen zum Spielen animiert
 * Kurzbeschreibung (max 250 Zeichen), die kurz erklärt wie zu spielen ist
 * Erklärung, dass die Fakultät Digitale Medien die Anwendung bei Veranstaltungen, insbesondere am Tag der Medien, mit einem expliziten Verweis auf den Autor, vorführen darf.
