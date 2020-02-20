@@ -1,4 +1,5 @@
 # Aufgabe
+- [x] Schalte die `👁Watch` oben ein um dieses Repository zu beobachten.
 - [x] Clone dieses Repository auf deinen Entwicklungsrechner. So kannst Du auch die Lektionen bearbeiten, wenn Du gerade keinen Internetzugang hast. Die Inhalte unterliegen stetigen Veränderungen, stelle also sicher, dass Du dir immer die aktuelle Version pullst, bevor Du mit der Arbeit beginnst.
 - [x] Lege dir ein persönliches EIA2-Repository auf Github an und pflege dort die Ergebnisse deiner Vorbereitungen und Wochenaufgaben. Publiziere das Repository auf Pages. 
 - [x] Lege in deinem Repository einen Ordner für deinen Steckbrief an und kopiere die Dateien für die Kursseitenregistrierung hinein. Individualisere diese und publiziere sie. 
@@ -10,8 +11,8 @@
 - Sei äußerst vorsichtig und bedacht beim Aufbau der Verzeichnisstruktur in deinem Repository. Unordnung und schlechte Namensgebung erhöhen massiv die kognitive Last im Umgang damit, das solltest Du dir dringend ersparen! Orientiere dich eng an der Struktur von [X00_Code](https://jirkadelloro.github.io/EIA2-Inverted/X00_Code).
 - Achte darauf, dass Du beim Programmieren sinnvolle `namespaces` vergibst, damit keine Namenskonflikte zwischen den verschiedenen Aufgaben und Übungen entstehen.  
 - Starte den Compiler immer im Watch-Mode, so dass jede Änderung gleich kompiliert wird. Sonst vergisst Du zu kompilieren und wunderst dich, dass dein Programm sein Verhalten nicht ändert.
-- Poste Issues und nimm die Hilfe in Anspruch, die wir sehr gerne leisten! Stelle darin möglichst genaue Links auf die entsprechenden Dateien zur Verfügung, die zum Problemverständnis beitragen, sowohl auf die Konzeption-Scans, den Quellcode als gegebenenfalls auch auf die Applikation auf Pages. Beschreibe möglichst präzise das Problem und schicke ggf. Screenshots mit. **Faustregel: Wenn Du länger als 15 Minuten mit einem Problem kämpfst, poste einen Issue, Du kannst ihn immer noch löschen, wenn Du selbst eine Lösung findest. Poste diese dann aber auch noch dazu...!**
-- 
+- Poste Issues und nimm die Hilfe in Anspruch, die wir sehr gerne leisten! Stelle darin möglichst genaue Links auf die entsprechenden Dateien zur Verfügung, die zum Problemverständnis beitragen, sowohl auf die Konzeption-Scans, den Quellcode als gegebenenfalls auch auf die Applikation auf Pages. Beschreibe möglichst präzise das Problem und schicke ggf. Screenshots mit. **Faustregel: Wenn Du länger als 15 Minuten mit einem Problem kämpfst, poste einen Issue.** Du kannst ihn einfach schließen, wenn Du selbst eine Lösung findest. Poste diese dann aber vorher noch dazu...!**
+- Hilf deinen Kommilitonen und beteilige dich an der Lösungsfindung. Die Betreuer sind nicht immer am Rechner und so kannst Du selbst vielleicht schon einen Beitrag leisten. Softwareentwicklung findet heute in Gemeinschaften von Leuten statt, die sich gegenseitig unterstützen.
 
 ## Hilfreiche Werkzeuge
 - Wenn Du die Lektionen bei dir lokal anschaust, installiere zuvor einen Markdown-Viewer im Browser! Für Chrome wird [dieser empfohlen](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk). Damit kannst Du MarkDown-Dateien (.md) im Browser öffnen und sie werden wohlformatiert angezeigt und sogar mit einem Überschriftenverzeichnis versehen.
