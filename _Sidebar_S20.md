@@ -1,4 +1,5 @@
-[L00_Preparation](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L00_Preparation)  
+[L00_Preparation](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L00_Preparation) 
+<!-- 
 [L01_Boxes](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L01_Boxes)  
 [L02_Memory](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L02_Memory)  
 
@@ -14,3 +15,4 @@
 [L11_Vogelhaus: Advanced](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L11_Vogelhaus:Advanced)  
 
 [Abschlussarbeit W19](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/Abschlussarbeit-W19)  
+-->
