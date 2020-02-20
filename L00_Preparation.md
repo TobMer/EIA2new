@@ -9,7 +9,7 @@
 ## Beachte
 - Sei äußerst vorsichtig und bedacht beim Aufbau der Verzeichnisstruktur in deinem Repository. Unordnung und schlechte Benamung erhöhen massiv die kognitive Last im Umgang damit, das solltest Du dir dringend ersparen! Orientiere dich eng an der Struktur von [X00_Code](https://jirkadelloro.github.io/EIA2-Inverted/X00_Code).
 - Achte darauf, dass Du beim Programmieren sinnvolle `namespaces` vergibst, damit keine Namenskonflikte zwischen den verschiedenen Aufgaben und Übungen entstehen.  
-- [x] Poste Issues und nimm die Hilfe in Anspruch, die wir gerne leisten! Stelle darin möglichst genaue Links auf die entsprechenden Dateien zur Verfügung, die zum Problemverständnis beitragen, sowohl auf die Konzeption-Scans, den Quellcode als gegebenenfalls auch auf die Applikation auf Pages. Beschreibe möglichst präzise das Problem und schicke ggf. Screenshots mit.  
+- Poste Issues und nimm die Hilfe in Anspruch, die wir gerne leisten! Stelle darin möglichst genaue Links auf die entsprechenden Dateien zur Verfügung, die zum Problemverständnis beitragen, sowohl auf die Konzeption-Scans, den Quellcode als gegebenenfalls auch auf die Applikation auf Pages. Beschreibe möglichst präzise das Problem und schicke ggf. Screenshots mit.  
 - Starte den Compiler immer im Watch-Mode, so dass jede Änderung gleich kompiliert wird. Sonst vergisst Du zu kompilieren und wunderst dich, dass dein Programm sein Verhalten nicht ändert.
 
 ## Hilfreiche Werkzeuge
