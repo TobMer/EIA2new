@@ -4,13 +4,14 @@
 - [x] Lege in deinem Repository einen Ordner für deinen Steckbrief an und kopiere die Dateien für die Kursseitenregistrierung hinein. Individualisere diese und publiziere sie. 
 - [x] Melde deinen Steckbrief auf der Kursseite an: https://webuser.hs-furtwangen.de/~del/EIA2   
 - [x] Achte darauf, dass Du TypeScript und den TS-Linter in VSCode installiert hast und dass Du die Dateien tsconfig.json und tslint.json von diesem Repository in deines kopiert hast.
-- [x] Poste jetzt ein "Ich bin startklar" in den Issue zu dieser Aufgabe: https://github.com/JirkaDellOro/EIA2-Inverted/issues/54. Ganz besonders würden wir uns dabei auch über ein paar Emojis freuen, eine Auswahl findest Du hier: [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [x] Poste jetzt ein "Ich bin startklar" oder ähnliches in den Issue zu dieser Aufgabe: https://github.com/JirkaDellOro/EIA2-Inverted/issues/54. Ganz besonders würden wir uns dabei auch über ein paar Emojis freuen, eine Auswahl findest Du hier: [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Beachte
-- Sei äußerst vorsichtig und bedacht beim Aufbau der Verzeichnisstruktur in deinem Repository. Unordnung und schlechte Benamung erhöhen massiv die kognitive Last im Umgang damit, das solltest Du dir dringend ersparen! Orientiere dich eng an der Struktur von [X00_Code](https://jirkadelloro.github.io/EIA2-Inverted/X00_Code).
+- Sei äußerst vorsichtig und bedacht beim Aufbau der Verzeichnisstruktur in deinem Repository. Unordnung und schlechte Namensgebung erhöhen massiv die kognitive Last im Umgang damit, das solltest Du dir dringend ersparen! Orientiere dich eng an der Struktur von [X00_Code](https://jirkadelloro.github.io/EIA2-Inverted/X00_Code).
 - Achte darauf, dass Du beim Programmieren sinnvolle `namespaces` vergibst, damit keine Namenskonflikte zwischen den verschiedenen Aufgaben und Übungen entstehen.  
-- Poste Issues und nimm die Hilfe in Anspruch, die wir gerne leisten! Stelle darin möglichst genaue Links auf die entsprechenden Dateien zur Verfügung, die zum Problemverständnis beitragen, sowohl auf die Konzeption-Scans, den Quellcode als gegebenenfalls auch auf die Applikation auf Pages. Beschreibe möglichst präzise das Problem und schicke ggf. Screenshots mit.  
 - Starte den Compiler immer im Watch-Mode, so dass jede Änderung gleich kompiliert wird. Sonst vergisst Du zu kompilieren und wunderst dich, dass dein Programm sein Verhalten nicht ändert.
+- Poste Issues und nimm die Hilfe in Anspruch, die wir sehr gerne leisten! Stelle darin möglichst genaue Links auf die entsprechenden Dateien zur Verfügung, die zum Problemverständnis beitragen, sowohl auf die Konzeption-Scans, den Quellcode als gegebenenfalls auch auf die Applikation auf Pages. Beschreibe möglichst präzise das Problem und schicke ggf. Screenshots mit. **Faustregel: Wenn Du länger als 15 Minuten mit einem Problem kämpfst, poste einen Issue, Du kannst ihn immer noch löschen, wenn Du selbst eine Lösung findest. Poste diese dann aber auch noch dazu...!**
+- 
 
 ## Hilfreiche Werkzeuge
 - Wenn Du die Lektionen bei dir lokal anschaust, installiere zuvor einen Markdown-Viewer im Browser! Für Chrome wird [dieser empfohlen](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk). Damit kannst Du MarkDown-Dateien (.md) im Browser öffnen und sie werden wohlformatiert angezeigt und sogar mit einem Überschriftenverzeichnis versehen.
