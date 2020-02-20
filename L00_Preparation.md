@@ -4,7 +4,7 @@
 - [x] Lege in deinem Repository einen Ordner für deinen Steckbrief an und kopiere die Dateien für die Kursseitenregistrierung hinein. Individualisere diese und publiziere sie. 
 - [x] Melde deinen Steckbrief auf der Kursseite an: https://webuser.hs-furtwangen.de/~del/EIA2   
 - [x] Achte darauf, dass Du TypeScript und den TS-Linter in VSCode installiert hast und dass Du die Dateien tsconfig.json und tslint.json von diesem Repository in deines kopiert hast.
-- [x] Poste jetzt ein "Ich bin startklar" in den Issue zu dieser Aufgabe: https://github.com/JirkaDellOro/EIA2-Inverted/issues/54
+- [x] Poste jetzt ein "Ich bin startklar" in den Issue zu dieser Aufgabe: https://github.com/JirkaDellOro/EIA2-Inverted/issues/54. Ganz besonders würden wir uns dabei auch über ein paar Emojis freuen, eine Auswahl findest Du hier: [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Beachte
 - Sei äußerst vorsichtig und bedacht beim Aufbau der Verzeichnisstruktur in deinem Repository. Unordnung und schlechte Benamung erhöhen massiv die kognitive Last im Umgang damit, das solltest Du dir dringend ersparen! Orientiere dich eng an der Struktur von [X00_Code](https://jirkadelloro.github.io/EIA2-Inverted/X00_Code).
