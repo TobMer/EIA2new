@@ -2,6 +2,7 @@
 - [x] Clone dieses Repository auf deinen Entwicklungsrechner. So kannst Du auch die Lektionen bearbeiten, wenn Du gerade keinen Internetzugang hast. Die Inhalte unterliegen stetigen Veränderungen, stelle also sicher, dass Du dir immer die aktuelle Version pullst, bevor Du mit der Arbeit beginnst.
 - [x] Lege dir ein persönliches EIA2-Repository auf Github an und pflege dort die Ergebnisse deiner Vorbereitungen und Wochenaufgaben. Publiziere das Repository auf Pages. 
 - [x] Sei äußerst vorsichtig und bedacht beim Aufbau der Verzeichnisstruktur in deinem Repository. Unordnung und schlechte Benamung erhöhen massiv die kognitive Last im Umgang damit, das solltest Du dir dringend ersparen! Orientiere dich eng an der Struktur von [X00_Code](https://jirkadelloro.github.io/EIA2-Inverted/X00_Code).
+- [x] Lege in deinem Repository einen Ordner für deinen Steckbrief an und kopiere die Dateien für die Kursseitenregistrierung hinein. Individualisere diese und publiziere sie. 
 - [x] Achte darauf, dass Du TypeScript und den TS-Linter in VSCode installiert hast und dass Du die Dateien tsconfig.json und tslint.json von diesem Repository in deines kopiert hast.
 - [x] Starte den Compiler im Watch-Mode, so dass jede Änderung gleich kompiliert wird. Sonst vergisst Du zu kompilieren und wunderst dich, dass dein Programm sein Verhalten nicht ändert.
 - [x] Achte darauf, dass Du beim Programmieren sinnvolle `namespaces` vergibst, damit keine Namenskonflikte zwischen den verschiedenen Aufgaben und Übungen entstehen.  
