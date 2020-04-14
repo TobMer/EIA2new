@@ -3,7 +3,7 @@
 1. Stelle die zu erwartende Ausgabe grafisch auf Papier dar.
 1. Bringe schließlich den Code zum Laufen und überprüfe das Ergebnis.
 1. Verfolge den Verlauf im Debugger. Bestimme Abweichungen zu deiner Erwartung und erkläre diese.
-1. Versuche ein Aktivitätsdiagramm für den Programmablauf zu konstruieren. Nutze dafür das [EIA2-Booklet](https://https://github.com/JirkaDellOro/EIA2-Inverted/blob/master/X01_Appendix/EIA2-Inverted_Booklet.pdf) sowie das Beispiel aus der ersten Aufgabe.
+1. Versuche ein Aktivitätsdiagramm für den Programmablauf zu konstruieren. Nutze dafür das [EIA2-Booklet](https://github.com/JirkaDellOro/EIA2-Inverted/blob/master/X01_Appendix/EIA2-Inverted_Booklet.pdf) sowie das Beispiel aus der ersten Aufgabe.
 
 ## TypeScript
 ```typescript
