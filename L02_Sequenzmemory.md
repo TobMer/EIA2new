@@ -1,5 +1,5 @@
 # Aufgabe
-Konzipiere ein kleines Memoryspiel als Web-App für Desktoprechner, Tablets und Smartphones, bei dem sich ein Spieler die zufällige Position von Zeichen merken und diese in einer bestimmten Reihenfolge aktivieren muss, nachdem sie verdeckt wurden.
+Konzipiere ein kleines Memoryspiel als Web-App für Desktoprechner, Tablets und Smartphones, bei dem sich ein Spieler die zufällige Position von Zeichen merken und diese in einer bestimmten Reihenfolge aufdecken muss, nachdem sie verdeckt wurden.
 
 Zu Beginn eines Spiels kann der Spieler selbst eine Sequenz eingeben oder wählen, dass er mit einer von 10 (oder mehr) vordefinierten Sequenzen spielen will. Eine solche Sequenz könnte beispielsweise die Zeichenkette "EIA2-Inverted" sein. Weiterhin kann er die Zeit angeben, die ihm für das Spiel zur Verfügung steht und die Zeit, die ihm die zufällig durchmischte Zeichenfolge zu Beginn gezeigt wird. Im Beispiel könnte diese durchmischte Folge derart aussehen: "vAntIde-2IEre".
 
