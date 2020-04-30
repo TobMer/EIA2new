@@ -26,3 +26,4 @@ Es könnte sehr hilfreich sein, wenn Du folgende Methoden und Attribute einiger 
 - Math.random()
 - Array.splice(...)
 - Element.className
+- String.split oder Klammersyntax bei String
