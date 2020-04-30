@@ -20,6 +20,9 @@ Suche dir eine Person im Kurs, mit der Du Konzepte tauschst. Jeder von euch vers
 
 # Recherche
 Es könnte sehr hilfreich sein, wenn Du folgende Methoden und Attribute einiger Javascript-Objekte näher untersuchst:
+- prompt
+- setTimeout
+- setInterval
 - Math.random()
 - Array.splice(...)
 - Element.className
