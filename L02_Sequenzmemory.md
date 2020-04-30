@@ -7,6 +7,11 @@ Dann startet das Spiel und die Zeichenfolge wird für die Dauer der angegebenen 
 
 Für den Spieler wird es voraussichtlich hilfreich und motivierend sein, wenn er zusätzlich permanent die korrekte Sequenz auf dem Bildschirm sieht und farblich markiert darin die Zeichen, die er gerade bereits erfolgreich aufgedeckt hat. Außerdem solle er noch eine kleine Hilfefunktion nutzen können: Genau einmal im Spiel kann er eine Taste auf dem Keyboard halten. Solange er diese hält, wenigstens aber zwei Sekunden, erscheinen die entsprechenden Zeichen in der durchmischten Sequenz aufgedeckt. 
 
+## Alternative Ablaufsteuerung
+Statt einer zeitlichen Steuerung kann alternativ auch folgende Steuerung implementiert werden:
+- der Nutzer kann sich die Ausgangssequenz beliebig lange anschauen und klickt auf einen Button, um das Verdecken der Zeichen zu bewirken und die Interaktion zu starten.
+- Nach einer bestimmten Anzahl von Fehlversuchen wird das Spiel als verloren gewertet und entsprechende Rückmeldung gegeben. Diese Anzahl kann der Spieler bei Programmstart eingeben.
+
 # Konzeption
 Halte dich strikt an die in der Lektion geübte Reihenfolge und Syntax der Konzeption, also  
 1. Anwendungsfalldiagramm, welches einen Überblick über alle Interaktionen mit dem User und die wesentlichsten Vorgänge innerhalb des Systems darstellt,
