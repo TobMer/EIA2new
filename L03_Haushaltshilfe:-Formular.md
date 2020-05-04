@@ -11,13 +11,14 @@ Folgende Punkte sind zu beachten:
         * Hat der Nutzer einen Artikel ausgewählt, sollte er noch die Möglichkeit bekommen die Menge anzugeben.
             * Die Menge kann in verschiedenen Einheiten angegeben werden. (Gramm, Liter, Packung etc.)
         * Außerdem möchte der Nutzer eventuell auch angeben aus welchem Geschäft er diesen Artikel am liebsten haben möchte.
-    * Haushaltsarbeiten (Rasenmähen, Wischen, Staubsaugen, Wände steichen etc.)
-    * Post wegbringen
-    * Pakete abholen (Nutzer kann aus einer Liste von Paketstationen wählen wo das Paket abgeholt werden muss)
+    * Haushaltsarbeiten (Rasen mähen, Wischen, Staubsaugen, Post wegbringen/abholen etc.)
     * Geld abheben
-        * Es erscheint ein Slider mit dem ausgewählt werden kann wieviel Geld abgehoben werden soll.
+        * Es erscheint ein Slider mit dem ausgewählt werden kann wie viel Geld abgehoben werden soll.
+    * Zahlungsweise
+      * z.B. Bar oder Bankeinzug oder Überweisung etc.  
+
 * Jeder Punkt kostet einen gewissen Betrag an Geld, welcher sich bei jeder Änderung automatisch aktualisiert.
-* Am Ende erhält der Benutzer eine Liste mit den Aufgaben die er in Auftrag gegeben hat und den Kosten die er dafür tragen muss.
+* Am Ende erhält der Benutzer eine Liste mit den Aufgaben die er in Auftrag gegeben hat und den Kosten.
 
 Hier ein Beispiel wie eine solche Liste am Ende aussehen könnte:
 ***
