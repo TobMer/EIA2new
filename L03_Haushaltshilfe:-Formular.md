@@ -26,8 +26,8 @@ Gerne könnt ihr noch weitere und andere Aufgaben integrieren, es geht hier für
 
 ***
 
-Ein Beispiel wie eine solche Liste am Ende aussehen könnte:
-***
+Ein Beispiel wie eine solche Liste am Ende aussehen könnte:  
+
 ### Erledigung 1
 **Einkaufen**
 
