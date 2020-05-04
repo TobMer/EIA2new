@@ -1,7 +1,7 @@
 # Aufgabe
 In der Corona-Krise herrschen schwierige Verhältnisse für uns alle, insbesondere für ältere Mitmenschen, die der Risikogruppe angehören. Ein System, das potentielle Helfer und Bedürftige zusammenbringt, könnte den Alltag erleichtern. So können Aufgaben, wie das Einkaufen, übernommen werden, damit die Leute das Haus nicht verlassen und sich unnötiger Gefahr aussetzen müssen. Die Hilfe wird von Freiwilligen übernommen, die sich auf der Plattform anmelden können.
 
-Ihr habt nun die Aufgabe ein Webformular zu entwickeln in die Bedürftigen eingeben können, was sie benötigen.
+Ihr habt nun die Aufgabe ein Webformular zu entwickeln in das Bedürftigen eingeben können, was sie benötigen.
 
 Folgende Punkte sind zu beachten:
 * Man sollte mehrere Erledigungen hinzufügen können, je nach Erledigung sollen unterschiedliche Informationen zu der Erledigung erscheinen.
@@ -12,15 +12,21 @@ Folgende Punkte sind zu beachten:
             * Die Menge kann in verschiedenen Einheiten angegeben werden. (Gramm, Liter, Packung etc.)
         * Außerdem möchte der Nutzer eventuell auch angeben aus welchem Geschäft er diesen Artikel am liebsten haben möchte.
     * Haushaltsarbeiten (Rasen mähen, Wischen, Staubsaugen, Post wegbringen/abholen etc.)
-    * Geld abheben
-        * Es erscheint ein Slider mit dem ausgewählt werden kann wie viel Geld abgehoben werden soll.
+    * Bei der Bank Geld abheben oder einzahlen, für das Abheben kann der Betrag eingegeben werden..
     * Zahlungsweise
       * z.B. Bar oder Bankeinzug oder Überweisung etc.  
 
 * Jeder Punkt kostet einen gewissen Betrag an Geld, welcher sich bei jeder Änderung automatisch aktualisiert.
 * Am Ende erhält der Benutzer eine Liste mit den Aufgaben die er in Auftrag gegeben hat und den Kosten.
 
-Hier ein Beispiel wie eine solche Liste am Ende aussehen könnte:
+
+Gerne könnt ihr noch weitere und andere Aufgaben integrieren, es geht hier für euch vor allem darum, die Formularelemente zu nutzen. Schaut also, dass ihr verschiedene Elemente nutzt wie Checkboxen, Radiobuttons, Slider, Selects usw. Usability und Gestaltung sind zweitrangig. Daher ist Untenstehendes auch nur eine Anregung und keine Vorlage!
+
+
+
+***
+
+Ein Beispiel wie eine solche Liste am Ende aussehen könnte:
 ***
 ### Erledigung 1
 **Einkaufen**
