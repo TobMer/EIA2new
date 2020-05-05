@@ -20,7 +20,7 @@ Folgende Punkte sind zu beachten:
 * Am Ende erhält der Benutzer eine Liste mit den Aufgaben die er in Auftrag gegeben hat und den Kosten.
 
 
-Gerne könnt ihr noch weitere und andere Aufgaben integrieren, es geht hier für euch vor allem darum, die Formularelemente zu nutzen. Schaut also, dass ihr verschiedene Elemente nutzt wie Checkboxen, Radiobuttons, Slider, Selects usw. Usability und Gestaltung sind zweitrangig, vor allem muss es funktionieren und Sinn ergeben. Daher ist Untenstehendes auch nur eine Anregung und keine Vorlage!
+Gerne könnt ihr noch weitere und andere Aufgaben integrieren, es geht hier für euch vor allem darum, den Umgang mit den Formularelementen zu üben. Schaut also, dass ihr verschiedene Elemente nutzt wie Checkboxen, Radiobuttons, Slider, Selects usw. Usability und Gestaltung sind zweitrangig, vor allem muss es funktionieren und Sinn ergeben. Daher ist Untenstehendes auch nur eine Anregung und keine Vorlage!
 
 
 
