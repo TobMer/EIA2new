@@ -3,11 +3,9 @@
 [L02_Sequenzmemory](L02_Sequenzmemory)  
 [L03_Haushaltshilfe:Formular](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L03_Haushaltshilfe:Formular)  
 [L04_Haushaltshilfe:Data](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L04_Haushaltshilfe:Data)  
+[L05_Haushaltshilfe:Client](L05_Haushaltshilfe:Client)  
 
 <!--
-[L03_CharacterEditor](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L03_CharacterEditor)  
-[L04_CharacterEditor: Data](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L04_CharacterEditor:Data)  
-[L05_CharacterCreator: Client](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L05_CharacterCreator:Client)  
 [L06_CharacterCreator: Server](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L06_CharacterCreator:Server)  
 [L07_CharacterCreator:Database](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L07_CharacterCreator:Database)  
 
