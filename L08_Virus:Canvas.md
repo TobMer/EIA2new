@@ -7,5 +7,7 @@ In diesem ersten Teil soll lediglich ein unbewegtes Bild von einem Algorithmus g
 
 Die Größe des Bildes soll für dein Smartphone optimiert sein, sich per CSS aber auch an andere Bildschirme anpassen.
 
+Beachte unbedingt die allgemeinen Hinweise für diese Aufgabe: [L08_CanvasAllgemein]
+
 
 
