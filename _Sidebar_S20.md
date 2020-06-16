@@ -8,6 +8,7 @@
 [L07_Haushaltshilfe:Database](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L07_Haushaltshilfe:Database)  
 
 [L08_Virus:Canvas](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L08_Virus:Canvas)  
+[L09_Virus:Classes](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L09_Virus:Classes)  
 
 <!--
 [L06_CharacterCreator: Server](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L06_CharacterCreator:Server)  
