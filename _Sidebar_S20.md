@@ -9,7 +9,7 @@
 
 [L08_Virus:Canvas](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L08_Virus:Canvas)  
 [L09_Virus:Classes](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L09_Virus:Classes)  
-[L10_Virus:Inheritance](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L10_Virus:Inheritance) 
+[L10_Virus:Inheritance](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L10_Virus:Inheritance)   
 [L11_Virus:Advanced](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L11_Virus:Advanced)  
 
 <!--
