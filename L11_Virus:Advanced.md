@@ -6,3 +6,6 @@ Spendiere deinen Zellen nun ein wenig mehr Intelligenz und sinnvolles Verhalten.
 Außerdem soll ein Nutzer nun zielgerichtet mit deiner Simulation interagieren können. Durch Klick auf Zellen soll ein definiertes Verhalten dargestellt werden, beispielsweise
 - Klick auf ein Virus lenkt Antikörper zum Virus, die es vernichten
 - Klick auf eine befallene Humanzelle heilt die oder zerstört sie, bevor sie Viren ausscheidet
+
+
+Beachte dringend die Hinweise zu [L11_AdvancedAllgemein]
