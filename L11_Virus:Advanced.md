@@ -8,4 +8,4 @@ Außerdem soll ein Nutzer nun zielgerichtet mit deiner Simulation interagieren k
 - Klick auf eine befallene Humanzelle heilt die oder zerstört sie, bevor sie Viren ausscheidet
 
 
-Beachte dringend die Hinweise zu [L11_AdvancedAllgemein]
+Beachte dringend die Hinweise zu [L11_AdvancedAllgemein](L11_AdvancedAllgemein)
