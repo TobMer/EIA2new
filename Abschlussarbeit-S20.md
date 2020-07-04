@@ -1,3 +1,5 @@
+**Beachte dringend die [Hinweise zur Abschlussarbeit](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/Hinweise-zur-Abschlussarbeit)!**  
+
 # Zauberbild
 Konzipiere und produziere eine Anwendung, mit der Nutzer interaktive und animierte Bilder erstellen, im Netz speichern und laden und weiter bearbeiten können.  
 
