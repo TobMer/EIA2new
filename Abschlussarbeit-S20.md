@@ -1,0 +1,4 @@
+# Zauberbild
+Konzipiere und produziere eine Anwendung, mit der Nutzer interaktive und animierte Bilder erstellen, im Netz speichern und laden und weiter bearbeiten können.  
+
+Bei Programmstart wird eine in der Größe und der Hintergrunddarstellung einstellbare und ansonsten leere Zeichenfläche dargestellt. Der Nutzer kann vordefinierte grafische Zeichen und Symbole auswählen und gezielt auf der Zeichenfläche platzieren. Diese sind allerdings nicht statisch sondern animiert und weisen z.B. fortlaufende Rotationen, Farbänderungen, Größen- oder Positionsänderungen und dergleichen auf. Dafür stehen verschiedene Animationsmuster zur Verfügung.
