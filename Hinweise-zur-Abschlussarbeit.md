@@ -5,8 +5,6 @@ Gehe bei der Konzeption und Produktion der Abschlussarbeit folgendermaßen vor:
   * Wenn wir Pull-Requests erstellen, 'merge' diese nicht gleich in dein Repository, sondern schauen dir die Änderungen an. Möglicherweise hinterlassen wir nur unformatierte Kommentare, die mit der Codesyntax inkompatibel sind. Sofern das mergen angebracht ist, werden wir das explizit mitteilen.
 
 # Konzeption
-**Bedenke: die Konzeption muss derart gestaltet werden, dass andere ohne vertiefte Kenntnis der Aufgabenstellung die Anwendung auf dieser Grundlage produzieren können und mit großer Wahrscheinlichkeit das gewünschte Ergebnis erreichen.**
-
 ## Funktionale Analyse
   * Beschäftige dich zunächst noch nicht mit der Frage, wie Du dein Konzept umsetzen willst, sondern nur damit, welches Erlebnis der Nutzer haben soll und wie er mit der Anwendung interagiert.
   * Lege die Plattform (PC, Mobil) entsprechend nachvollziehbarer Kriterien fest und dokumentiere dies.
@@ -18,13 +16,16 @@ Interaktionen nicht möglich sind.
 
 ## Technische Analyse
   * Überlegen nun, wie deine Anwendung umgesetzt werden könnte. Höchstwahrscheinlich wirst Du dies nicht sofort von Anfang bis Ende durchdenken und niederschreiben können.
+  * Erstelle Klassendiagramme und wende dabei die Prinzipien, Fragen und Regeln der objektorientierten Modellierung an.
   * Erstelle daher Aktivitätsdiagramme auf verschiedenen Detailebenen.
   * Meist empfiehlt es sich, zuerst einen groben Ablauf darzustellen, um Teilaspekte zu identifizieren. Erstelle dann für die Teilprobleme wieder Aktivitätsdiagramme. So wandert dein Fokus von „wie setzte ich die Anwendung um?“ zu „wie setze ich diesen Teil oder diesen Aspekt der Anwendung um?“. 
   * Im Idealfall lassen sich Probleme auf diese Art so weit aufgliedern, bis sich für alle Unterprobleme einfache Lösungen finden, und damit das Gesamtproblem gelöst ist. In allen anderen Fällen hilft dir diese Vorgehensweise zumindest, nicht über alles gleichzeitig nachdenken zu müssen und sich nicht schon am Anfang in Details zu verlieren.
   * Zudem kannst Du auf diese Weise relativ schnell einen Lösungsansatz strukturieren und ihn anderen kommunizieren. Gehe davon aus, dass nicht gleich der erste Versuch zum Erfolg führt, sondern dass die ersten Diagramme eher Hinführungen für weitere, verbesserte sind.
-  * Leite dabei Klassendiagramme ab. Sofern es sinnvoll erscheint, nutze die Möglichkeit Klassen zu erweitern, also Subklassen zu erstellen.
+
+**Bedenke: die Konzeption muss derart gestaltet werden, dass andere ohne vertiefte Kenntnis der Aufgabenstellung die Anwendung auf dieser Grundlage produzieren können und mit großer Wahrscheinlichkeit das gewünschte Ergebnis erreichen.**
 
 # Produktion
+  * Erst wenn deine Konzeption ein funktionsfähiges System darstellt und obigem Merksatz nahe kommt, beginne mit der Produktion.
   * Implementiere deine Abschlussarbeit syntaktisch korrekt gemäß deiner technischen Analyse und nach den festgelegten Stil-Regeln mit Hilfe von Typescript, Nodejs, MongoDB, HTML, und CSS.
   * Teste die Applikation regelmäßig, ausgiebig und frühzeitig. Lasse auch andere Personen testen um festzustellen, ob die Anwendung bedienbar und fehlertolerant ist.
   * Achte darauf, dass Du deinen Code häufig in dein Repository überträgst und dabei sinnvolle Nachrichten schreibst. Übertrage ihn dann auch gleich auf Github!
