@@ -12,6 +12,8 @@
 [L10_Virus:Inheritance](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L10_Virus:Inheritance)   
 [L11_Virus:Advanced](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L11_Virus:Advanced)  
 
+[Abschlussarbeit S20](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/Abschlussarbeit-S20)  
+
 <!--
 [L06_CharacterCreator: Server](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L06_CharacterCreator:Server)  
 [L07_CharacterCreator:Database](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L07_CharacterCreator:Database)  
