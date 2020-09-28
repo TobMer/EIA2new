@@ -1,11 +1,11 @@
 # Aufgabe
 - [x] Schalte die `👁Watch` oben ein um dieses Repository zu beobachten.
 - [x] Clone dieses Repository auf deinen Entwicklungsrechner. So kannst Du auch die Lektionen bearbeiten, wenn Du gerade keinen Internetzugang hast. Die Inhalte unterliegen stetigen Veränderungen, stelle also sicher, dass Du dir immer die aktuelle Version pullst, bevor Du mit der Arbeit beginnst.
-- [x] Lege dir ein persönliches EIA2-Repository auf Github an und pflege dort die Ergebnisse deiner Vorbereitungen und Wochenaufgaben. Publiziere das Repository auf Pages. 
+- [x] Lege dir ein eigenes EIA2-Repository auf Github an und pflege dort die Ergebnisse deiner Vorbereitungen und Wochenaufgaben. Publiziere das Repository auf Pages. 
 - [x] Lege in deinem Repository einen Ordner für deinen Steckbrief an und kopiere die Dateien für die Kursseitenregistrierung hinein. Individualisere diese und publiziere sie. 
 - [x] Melde deinen Steckbrief auf der Kursseite an: https://webuser.hs-furtwangen.de/~del/EIA2   
 - [x] Achte darauf, dass Du TypeScript und den TS-Linter in VSCode installiert hast und dass Du die Dateien tsconfig.json und tslint.json von diesem Repository in deines kopiert hast.
-- [x] Poste jetzt ein "Ich bin startklar" oder ähnliches in den Issue zu dieser Aufgabe: https://github.com/JirkaDellOro/EIA2-Inverted/issues/54. Ganz besonders würden wir uns dabei auch über ein paar Emojis freuen, eine Auswahl findest Du hier: [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [x] Poste jetzt ein "Ich bin startklar" oder ähnliches in den Issue zu dieser Aufgabe: https://github.com/JirkaDellOro/EIA2-Inverted/issues/234. Ganz besonders würden wir uns dabei auch über ein paar Emojis freuen, eine Auswahl findest Du hier: [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Beachte
 - Sei äußerst vorsichtig und bedacht beim Aufbau der Verzeichnisstruktur in deinem Repository. Unordnung und schlechte Namensgebung erhöhen massiv die kognitive Last im Umgang damit, das solltest Du dir dringend ersparen! Orientiere dich eng an der Struktur von [X00_Code](https://github.com/JirkaDellOro/EIA2-Inverted/tree/master/X00_Code).
