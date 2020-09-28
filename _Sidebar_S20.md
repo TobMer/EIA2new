@@ -1,4 +1,6 @@
 [L00_Preparation](L00_Preparation)  
+
+<!--
 [L01_Boxes](L01_Boxes)  
 [L02_Sequenzmemory](L02_Sequenzmemory)  
 [L03_Haushaltshilfe:Formular](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L03_Haushaltshilfe:Formular)  
@@ -14,7 +16,6 @@
 
 [Abschlussarbeit S20](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/Abschlussarbeit-S20)  
 
-<!--
 [L06_CharacterCreator: Server](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L06_CharacterCreator:Server)  
 [L07_CharacterCreator:Database](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/L07_CharacterCreator:Database)  
 
