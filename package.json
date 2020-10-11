@@ -1,0 +1,24 @@
+{
+  "name": "eia2-inverted",
+  "version": "1.0.0",
+  "description": "Control for the heroku implementation",
+  "main": "",
+  "scripts": {
+    "start": "node Endabgabe_tobiasmerkle_birds/server/server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobMer/EIA2.git"
+  },
+  "author": "Tobias Merkle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobMer/EIA2/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "@types/mongodb": "^3.3.1",
+    "@types/node": "^12.12.11",
+    "mongodb": "^3.3.2"
+  }
+}
