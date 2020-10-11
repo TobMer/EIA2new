@@ -1,2 +1,0 @@
-# Aufgabe
-Setze im Internet eine Datenbank als Service auf. Dein CharacterCreator-Server soll die Daten der entworfenen Charaktere dort abspeichern und wieder auslesen können. Erweitere auch den Client, so dass eine Abfrage verschickt werden kann um gespeicherte Charaktere abzurufen. Die Serverantwort soll aufbereitet und die Eigenschaften der gespeicherten Charaktere dargestellt werden

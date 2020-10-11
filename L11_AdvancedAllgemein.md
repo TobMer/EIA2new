@@ -1,8 +1,0 @@
-# Konzeption
-Überlege, welche Informationen und Fähigkeiten welche Objekte nun zusätzlich brauchen und was sie sich merken müssen. Auf was muss das Objekt reagieren? Wie kommt es von einem Punkt zum anderen, wie merkt es, dass es angekommen ist? Wann und warum bewegt es sich wieder weg? Erfasse dies in einer Erweiterung deines Klassendiagramms und entwirf die Algorithmen in den Erweiterungen deiner Aktivitätsdiagramme.
-
-# Produktion
-Erweitere deinen Code entsprechend. Implementiere dabei auch die passenden Sichtbarkeitsmodifikatoren sowohl bei den neuen, wie auch den bestehenden Programmteilen. Verwende, wo geeignet, Aufzählungstypen. die Schlüsselworte `abstract` und `static` sowie Zugriffsfunktionen.
-
-# Hinweis
-Halte dich nicht lange mit dem gezielten Bewegung zu einer Position auf. Eine sehr simple Methode ist es, bei jeder Bildwiederholung durch Subtraktion der aktuellen Position von der Zielposition einen Vektor zu berechnen, und dann die aktuelle Position um einen Bruchteil dieses Vektors zu verändern. Das ergibt eine schon fast organisch wirkende Bewegung, da das Objekt seine Startposition mit großer Geschwindigkeit verlässt und seine Zielposition stetig langsamer werdend ansteuert. Beachte aber, dass es die Zielposition nie ganz erreicht, da es sich immer nur um einen Bruchteil des Weges dorthin fortbewegt. [Vergleiche Achillesparadoxon](https://de.wikipedia.org/wiki/Achilles_und_die_Schildkr%C3%B6te)

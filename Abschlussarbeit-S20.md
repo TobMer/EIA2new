@@ -1,8 +1,0 @@
-**Beachte dringend die [Hinweise zur Abschlussarbeit](https://github.com/JirkaDellOro/EIA2-Inverted/wiki/Hinweise-zur-Abschlussarbeit)!**  
-
-# Zauberbild
-Konzipiere und produziere eine Anwendung, mit der Nutzer interaktive und animierte Bilder erstellen, im Netz speichern und laden und weiter bearbeiten können.  
-
-Bei Programmstart wird eine in der Größe und der Hintergrunddarstellung einstellbare und ansonsten leere Zeichenfläche dargestellt. Der Nutzer kann vordefinierte grafische Zeichen und Symbole auswählen und gezielt auf der Zeichenfläche platzieren. Diese sind allerdings nicht statisch sondern animiert und weisen z.B. fortlaufende Rotationen, Farbänderungen, Größen- oder Positionsänderungen und dergleichen auf. Dafür stehen verschiedene Animationsmuster zur Verfügung. Bereits platzierte Symbole können nachträglich verändert, verschoben und gelöscht werden.
-
-Zu jeder Zeit kann der Nutzer das aktuelle Bild in einer Datenbank mit Netz speichern. Hierzu werden die Daten zunächst an einen Internetserver geschickt, der die Datenbankverwaltung übernimmt. Von dort können auch bereits erstellte Bilder wieder geladen und im Browser samt Animation dargestellt werden, und stehen somit in der Anwendung für die Weiterbearbeitung mit den oben genannten Möglichkeiten zur Verfügung. Die Datenbank kann viele solcher Bilder speichern, zum Laden präsentiert die Anwendung dem Nutzer zunächst eine entsprechende Auswahlmöglichkeit.
